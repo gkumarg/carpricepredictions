@@ -1,0 +1,6 @@
+#files to ignore from tracking
+.ipynb_checkpoints/*
+.vscode/*
+car data.csv
+CAR DETAILS FROM CAR DEKHO.csv
+Car details v3.csv
